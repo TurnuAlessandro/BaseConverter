@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.margine-destro {
+  margin-left: 40px;
+}
+
+.padding {
+  padding: 3px;
+}
+.spazio {
+  width: 30px;
+}
+.align-right {
+  text-align: right;
+}
+
+.padding-left {
+  padding-left: 50px;
+}
+
+.span {
+  display: inline;
+}
+
+.riga {
+  border-bottom: 1px solid black;
+}
+
+.border-right {
+  border-right: 1px solid grey;
+}
+
+.width-50 {
+  border: 1px solid black;
+  padding: 5px;
+  width: 30%;
+}
+
+.label {
+  font-size: 20px;
+  margin-right: 10px;
+}
